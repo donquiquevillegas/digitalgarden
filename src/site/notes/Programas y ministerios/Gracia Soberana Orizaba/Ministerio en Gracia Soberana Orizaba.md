@@ -1,5 +1,5 @@
 ---
-{"type":"admin","area":"[[Ministerial]]","related":["[[Programas y ministerios/Gracia Soberana Orizaba/Gracia Soberana Orizaba\|Gracia Soberana Orizaba]]"],"dg-publish":true,"tags":["Pastoral/Planeacion"],"permalink":"/programas-y-ministerios/gracia-soberana-orizaba/ministerio-en-gracia-soberana-orizaba/","dgPassFrontmatter":true}
+{"type":"admin","area":"[[Ministerial]]","related":["[[Programas y ministerios/Gracia Soberana Orizaba/Gracia Soberana Orizaba\|Gracia Soberana Orizaba]]"],"tags":["Pastoral/Planeacion"],"dg-publish":true,"permalink":"/programas-y-ministerios/gracia-soberana-orizaba/ministerio-en-gracia-soberana-orizaba/","dgPassFrontmatter":true}
 ---
 
 ![worship.jpg|banner](/img/user/Archivos/banners/worship.jpg)
