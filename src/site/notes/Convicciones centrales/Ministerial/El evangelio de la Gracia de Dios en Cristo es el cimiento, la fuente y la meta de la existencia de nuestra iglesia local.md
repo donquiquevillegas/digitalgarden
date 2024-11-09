@@ -1,5 +1,5 @@
 ---
-{"type":"conviccion","area":"[[Ministerial]]","rama":"[[Centralidad del evangelio]]","related":["[[Programas y ministerios/Gracia Soberana Orizaba/Gracia Soberana Orizaba\|Gracia Soberana Orizaba]]","[[Filosofía ministerial de Gracia Soberana Orizaba]]","[[07 Convicciones para la dirección de la Iglesia]]","[[El evangelio]]"],"dg-publish":true,"tags":["convicciones","Ministerial"],"permalink":"/convicciones-centrales/ministerial/el-evangelio-de-la-gracia-de-dios-en-cristo-es-el-cimiento-la-fuente-y-la-meta-de-la-existencia-de-nuestra-iglesia-local/","dgPassFrontmatter":true}
+{"type":"conviccion","area":"[[Ministerial]]","rama":"[[Centralidad del evangelio]]","related":["[[Programas y ministerios/Gracia Soberana Orizaba/Gracia Soberana Orizaba\|Gracia Soberana Orizaba]]","[[07 Convicciones para la dirección de la Iglesia]]"],"dg-publish":true,"tags":["convicciones","Ministerial"],"permalink":"/convicciones-centrales/ministerial/el-evangelio-de-la-gracia-de-dios-en-cristo-es-el-cimiento-la-fuente-y-la-meta-de-la-existencia-de-nuestra-iglesia-local/","dgPassFrontmatter":true}
 ---
 
 ![goals.jpg|banner](/img/user/Archivos/banners/goals.jpg)
