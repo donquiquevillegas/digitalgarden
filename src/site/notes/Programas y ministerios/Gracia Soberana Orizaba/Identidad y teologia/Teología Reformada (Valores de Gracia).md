@@ -1,5 +1,5 @@
 ---
-{"type":"admin","related":["[[Los 7 Valores compartidos de Gracia Soberana]]","[[Teología de Gracia Soberana Orizaba]]","[[Gracia Soberana Orizaba]]","[[Teología Reformada]]"],"dg-publish":true,"permalink":"/programas-y-ministerios/gracia-soberana-orizaba/identidad-y-teologia/teologia-reformada-valores-de-gracia/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/programas-y-ministerios/gracia-soberana-orizaba/identidad-y-teologia/teologia-reformada-valores-de-gracia/"}
 ---
 
 ### Teología Reformada

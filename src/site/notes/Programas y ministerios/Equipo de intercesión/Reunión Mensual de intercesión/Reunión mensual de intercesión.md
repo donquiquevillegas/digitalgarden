@@ -1,5 +1,5 @@
 ---
-{"type":"programa","area":"[[Ministerial]]","rama":"[[Oracion]]","responsable":"[[Quique]]","auxiliar":null,"related":["[[Filosofía ministerial de Gracia Soberana Orizaba]]","[[07 Convicciones para la dirección de la Iglesia]]","[[La oración es el primer paso y el más importante para la edificación de la Iglesia]]","[[Convicciones centrales/Ministerial/Programas de oración\|Programas de oración]]","[[Gracia Soberana Orizaba]]"],"files":["[[Reunión mensual de intercesión.afdesign]]"],"tags":["Ministerial/Intercesion"],"dg-publish":true,"permalink":"/programas-y-ministerios/equipo-de-intercesion/reunion-mensual-de-intercesion/reunion-mensual-de-intercesion/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/programas-y-ministerios/equipo-de-intercesion/reunion-mensual-de-intercesion/reunion-mensual-de-intercesion/","tags":["Ministerial/Intercesion"]}
 ---
 
 
@@ -80,7 +80,7 @@ La Escritura es muy clara: La edificación de la Iglesia es algo que solo Dios, 
 
 1. [[Biblioteca/Temas bíblicos/La importancia de la oración\|La importancia de la oración]]
 2. [[Areas/Mi santificación/Mi vida de oración\|Mi vida de oración]]
-3. [[Programas de oración]]
+3. [[Convicciones centrales/Ministerial/Programas de oración\|Programas de oración]]
 
 
 

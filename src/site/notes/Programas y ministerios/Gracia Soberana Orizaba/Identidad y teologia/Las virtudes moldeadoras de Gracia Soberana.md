@@ -1,5 +1,5 @@
 ---
-{"type":"resources","class":"creed","related":["[[Gracia Soberana Orizaba]]","[[Teología de Gracia Soberana Orizaba]]"],"dg-publish":true,"permalink":"/programas-y-ministerios/gracia-soberana-orizaba/identidad-y-teologia/las-virtudes-moldeadoras-de-gracia-soberana/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/programas-y-ministerios/gracia-soberana-orizaba/identidad-y-teologia/las-virtudes-moldeadoras-de-gracia-soberana/"}
 ---
 
 

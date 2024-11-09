@@ -1,5 +1,5 @@
 ---
-{"type":"admin","related":["[[Los 7 Valores compartidos de Gracia Soberana]]","[[Teología de Gracia Soberana Orizaba]]","[[Gracia Soberana Orizaba]]"],"dg-publish":true,"permalink":"/programas-y-ministerios/gracia-soberana-orizaba/identidad-y-teologia/pneumatologia-continuista/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/programas-y-ministerios/gracia-soberana-orizaba/identidad-y-teologia/pneumatologia-continuista/"}
 ---
 
 ### Pneumatología continuista

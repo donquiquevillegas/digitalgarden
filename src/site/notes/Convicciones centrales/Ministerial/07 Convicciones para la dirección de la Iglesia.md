@@ -1,5 +1,5 @@
 ---
-{"type":"admin","related":["[[Filosofía ministerial de Gracia Soberana Orizaba]]","[[Gracia Soberana Ori]]"],"tags":["convicciones"],"area":"[[Ministerial]]","dg-publish":true,"permalink":"/convicciones-centrales/ministerial/07-convicciones-para-la-direccion-de-la-iglesia/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/convicciones-centrales/ministerial/07-convicciones-para-la-direccion-de-la-iglesia/","tags":["convicciones"]}
 ---
 
 

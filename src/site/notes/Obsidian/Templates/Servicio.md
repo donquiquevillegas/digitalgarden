@@ -1,5 +1,5 @@
 ---
-{"type":"topic","related":["[[Las virtudes moldeadoras de Gracia Soberana]]"],"dg-publish":true,"permalink":"/obsidian/templates/servicio/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/obsidian/templates/servicio/"}
 ---
 
 

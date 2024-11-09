@@ -1,12 +1,12 @@
 ---
-{"type":"admin","dg-publish":true,"permalink":"/convicciones-centrales/ministerial/mision-y-vision-de-gracia-soberana-orizaba/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/convicciones-centrales/ministerial/mision-y-vision-de-gracia-soberana-orizaba/"}
 ---
 
 ![worship.jpg|banner](/img/user/Archivos/banners/worship.jpg)
 
 Como parte de la [[Convicciones centrales/Ministerial/Filosofía ministerial de Gracia Soberana Orizaba\|Filosofía ministerial de Gracia Soberana Orizaba]] de Gracia Soberana Orizaba 
 
-### Misión de [[Programas y ministerios/Gracia Soberana Orizaba/Gracia Soberana Ori\|Gracia Soberana Ori]]
+### Misión de [[Programas y ministerios/Gracia Soberana Orizaba/Gracia Soberana Orizaba\|Gracia Soberana Orizaba]]
 
 > “Atesorar, vivir y proclamar con fidelidad el evangelio de Cristo en El poder del Espíritu para la Gloria de Dios”.
 { #e96de2}

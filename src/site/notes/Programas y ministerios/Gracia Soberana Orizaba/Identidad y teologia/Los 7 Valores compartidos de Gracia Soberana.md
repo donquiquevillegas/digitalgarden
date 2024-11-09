@@ -1,5 +1,5 @@
 ---
-{"type":"resources","class":"creed","related":["[[Teología de Gracia Soberana Orizaba]]","[[Gracia Soberana Orizaba]]"],"dg-publish":true,"permalink":"/programas-y-ministerios/gracia-soberana-orizaba/identidad-y-teologia/los-7-valores-compartidos-de-gracia-soberana/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/programas-y-ministerios/gracia-soberana-orizaba/identidad-y-teologia/los-7-valores-compartidos-de-gracia-soberana/"}
 ---
 
 

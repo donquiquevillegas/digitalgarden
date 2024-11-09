@@ -1,5 +1,5 @@
 ---
-{"type":"admin","related":["[[Teología de Gracia Soberana Orizaba]]","[[Gracia Soberana Orizaba]]","[[Nosotros creemos]]"],"dg-publish":true,"permalink":"/programas-y-ministerios/gracia-soberana-orizaba/identidad-y-teologia/creacion-providencia-y-el-hombre/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/programas-y-ministerios/gracia-soberana-orizaba/identidad-y-teologia/creacion-providencia-y-el-hombre/"}
 ---
 
 # CREACIÓN,  PROVIDENCIA Y EL HOMBRE

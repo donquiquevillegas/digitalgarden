@@ -1,5 +1,5 @@
 ---
-{"type":"curso","area":"[[Areas/Oración y estudio bíblico pastoral/Estudio]]","date":"2024-01-01","rama":"academico","parent":"[[Introducción al griego bíblico]]","sequence":1,"permalink":"/programas-y-ministerios/discipulado/colegio-de-pastores/curso-de-griego/morfologia/morfologia-del-griego-del-nt/","tags":["Exégesis"],"related":["[[Iglesias Gracia Soberana]]"],"files":["[[]]"],"dg-publish":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/programas-y-ministerios/discipulado/colegio-de-pastores/curso-de-griego/morfologia/morfologia-del-griego-del-nt/","tags":["Exégesis"]}
 ---
 
 

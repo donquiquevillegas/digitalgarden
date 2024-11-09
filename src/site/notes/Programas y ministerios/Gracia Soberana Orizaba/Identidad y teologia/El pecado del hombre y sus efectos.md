@@ -1,5 +1,5 @@
 ---
-{"type":"admin","related":["[[Teología de Gracia Soberana Orizaba]]","[[Gracia Soberana Orizaba]]","[[Nosotros creemos]]"],"dg-publish":true,"permalink":"/programas-y-ministerios/gracia-soberana-orizaba/identidad-y-teologia/el-pecado-del-hombre-y-sus-efectos/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/programas-y-ministerios/gracia-soberana-orizaba/identidad-y-teologia/el-pecado-del-hombre-y-sus-efectos/"}
 ---
 
 # EL PECADO DEL  HOMBRE Y SUS EFECTOS

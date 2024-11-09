@@ -1,5 +1,5 @@
 ---
-{"type":"conviccion","area":"[[Ministerial]]","rama":"[[koinonia]]","related":["[[Gracia Soberana Ori]]","[[Filosofía ministerial de Gracia Soberana Orizaba]]","[[07 Convicciones para la dirección de la Iglesia]]","[[Unidad de la iglesia]]"],"tags":["convicciones","Ministerial"],"dg-publish":true,"permalink":"/convicciones-centrales/ministerial/cuando-nos-amamos-perdonamos-oramos-juntos-y-trabajamos-juntos-para-cumplir-nuestra-mision-nos-convertimos-en-una-encarnacion-del-evangelio/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/convicciones-centrales/ministerial/cuando-nos-amamos-perdonamos-oramos-juntos-y-trabajamos-juntos-para-cumplir-nuestra-mision-nos-convertimos-en-una-encarnacion-del-evangelio/","tags":["convicciones","Ministerial"]}
 ---
 
 

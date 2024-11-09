@@ -1,5 +1,5 @@
 ---
-{"type":"subarea","area":"[[Mi Santificación]]","related":["[[Mi Santificación]]"],"tags":["Santificacion"],"dg-publish":true,"permalink":"/areas/mi-santificacion/mi-vida-de-oracion/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/areas/mi-santificacion/mi-vida-de-oracion/","tags":["Santificacion"]}
 ---
 
 ![PrayerBanner.png|banner](/img/user/Archivos/PrayerBanner.png)

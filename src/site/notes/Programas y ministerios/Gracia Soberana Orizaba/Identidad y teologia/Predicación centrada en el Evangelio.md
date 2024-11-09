@@ -1,5 +1,5 @@
 ---
-{"type":"admin","dg-publish":true,"related":["[[Los 7 Valores compartidos de Gracia Soberana]]","[[Teología de Gracia Soberana Orizaba]]","[[Gracia Soberana Orizaba]]"],"permalink":"/programas-y-ministerios/gracia-soberana-orizaba/identidad-y-teologia/predicacion-centrada-en-el-evangelio/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/programas-y-ministerios/gracia-soberana-orizaba/identidad-y-teologia/predicacion-centrada-en-el-evangelio/"}
 ---
 
 

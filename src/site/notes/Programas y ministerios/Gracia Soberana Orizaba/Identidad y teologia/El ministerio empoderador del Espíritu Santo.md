@@ -1,5 +1,5 @@
 ---
-{"type":"admin","related":["[[Teología de Gracia Soberana Orizaba]]","[[Gracia Soberana Orizaba]]","[[Nosotros creemos]]"],"dg-publish":true,"permalink":"/programas-y-ministerios/gracia-soberana-orizaba/identidad-y-teologia/el-ministerio-empoderador-del-espiritu-santo/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/programas-y-ministerios/gracia-soberana-orizaba/identidad-y-teologia/el-ministerio-empoderador-del-espiritu-santo/"}
 ---
 
 # EL MINISTERIO EMPODERADOR DEL ESPÍRITU

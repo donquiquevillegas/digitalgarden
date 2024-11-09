@@ -1,11 +1,11 @@
 ---
-{"type":"admin","area":"[[Ministerial]]","related":["[[Gracia Soberana Orizaba\|Gracia Soberana Orizaba]]"],"tags":["Pastoral/Planeacion"],"dg-publish":true,"permalink":"/programas-y-ministerios/gracia-soberana-orizaba/ministerio-en-gracia-soberana-orizaba/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/programas-y-ministerios/gracia-soberana-orizaba/ministerio-en-gracia-soberana-orizaba/","tags":["Pastoral/Planeacion"]}
 ---
 
 ![worship.jpg|banner](/img/user/Archivos/banners/worship.jpg)
 
 
-Como iglesia local, [[Gracia Soberana Orizaba]], buscar exaltar el nombre de Cristo a anunciar el evangelio.
+Como iglesia local, [[Programas y ministerios/Gracia Soberana Orizaba/Gracia Soberana Orizaba\|Gracia Soberana Orizaba]], buscar exaltar el nombre de Cristo a anunciar el evangelio.
 
 ### Misión y Visión de Gracia Soberana Orizaba
 Expresamos este compromiso en nuestra declaración de Misión y de visión:

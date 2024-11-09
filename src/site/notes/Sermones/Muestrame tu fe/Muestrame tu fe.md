@@ -1,5 +1,5 @@
 ---
-{"type":"series","area":"[[Ministerio de predicación]]","date":"2024-01-01","permalink":"/sermones/muestrame-tu-fe/muestrame-tu-fe/","tags":["Sermones","Series"],"related":["[[Series de sermones]]","[[Dieta de predicaciones 2024]]"],"start":"2024-10-06","end":null,"files":["[[muestrame tu fe.afdesign]]"],"dg-publish":true,"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/sermones/muestrame-tu-fe/muestrame-tu-fe/","tags":["Sermones","Series"]}
 ---
 
  ![muestrameBanner.jpg|banner](/img/user/Sermones/Muestrame%20tu%20fe/imagenes/muestrameBanner.jpg)

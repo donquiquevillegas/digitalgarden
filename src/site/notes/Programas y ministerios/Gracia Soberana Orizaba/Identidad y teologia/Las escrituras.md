@@ -1,5 +1,5 @@
 ---
-{"type":"admin","related":["[[Teología de Gracia Soberana Orizaba]]","[[Gracia Soberana Orizaba]]","[[Nosotros creemos]]","[[Doctrina de la Biblia]]"],"dg-publish":true,"permalink":"/programas-y-ministerios/gracia-soberana-orizaba/identidad-y-teologia/las-escrituras/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/programas-y-ministerios/gracia-soberana-orizaba/identidad-y-teologia/las-escrituras/"}
 ---
 
 ## Dios y la Revelación

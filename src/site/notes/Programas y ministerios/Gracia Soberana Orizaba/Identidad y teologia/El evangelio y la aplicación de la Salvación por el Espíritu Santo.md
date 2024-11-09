@@ -1,5 +1,5 @@
 ---
-{"type":"admin","related":["[[Teología de Gracia Soberana Orizaba]]","[[Gracia Soberana Orizaba]]","[[Nosotros creemos]]"],"dg-publish":true,"permalink":"/programas-y-ministerios/gracia-soberana-orizaba/identidad-y-teologia/el-evangelio-y-la-aplicacion-de-la-salvacion-por-el-espiritu-santo/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/programas-y-ministerios/gracia-soberana-orizaba/identidad-y-teologia/el-evangelio-y-la-aplicacion-de-la-salvacion-por-el-espiritu-santo/"}
 ---
 
 # EL EVANGELIO Y LA APLICACIÓN DE LA SALVACIÓN POR EL ESPÍRITU SANTO

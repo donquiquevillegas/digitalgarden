@@ -1,5 +1,5 @@
 ---
-{"type":"resources","related":["[[Teología de Gracia Soberana Orizaba]]","[[Gracia Soberana Orizaba]]"],"class":"creed","aliases":["Confesión de Fe"],"dg-publish":true,"permalink":"/programas-y-ministerios/gracia-soberana-orizaba/identidad-y-teologia/nosotros-creemos/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/programas-y-ministerios/gracia-soberana-orizaba/identidad-y-teologia/nosotros-creemos/"}
 ---
 
 

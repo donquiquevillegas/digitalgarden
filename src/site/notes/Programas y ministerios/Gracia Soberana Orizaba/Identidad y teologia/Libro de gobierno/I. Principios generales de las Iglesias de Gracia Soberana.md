@@ -1,5 +1,5 @@
 ---
-{"type":"resources","class":"creed","related":["[[Gracia Soberana Orizaba]]","[[Teología de Gracia Soberana Orizaba]]","[[Ministerio Pastoral]]"],"dg-publish":true,"permalink":"/programas-y-ministerios/gracia-soberana-orizaba/identidad-y-teologia/libro-de-gobierno/i-principios-generales-de-las-iglesias-de-gracia-soberana/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/programas-y-ministerios/gracia-soberana-orizaba/identidad-y-teologia/libro-de-gobierno/i-principios-generales-de-las-iglesias-de-gracia-soberana/"}
 ---
 
 

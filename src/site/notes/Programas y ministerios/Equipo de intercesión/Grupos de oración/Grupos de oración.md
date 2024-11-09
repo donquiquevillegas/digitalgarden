@@ -1,5 +1,5 @@
 ---
-{"type":"programa","rama":"[[Oracion]]","responsable":"[[Quique]]","auxiliar":"[[Ivan]]","related":["[[Filosofía ministerial de Gracia Soberana Orizaba]]","[[07 Convicciones para la dirección de la Iglesia]]","[[Convicciones centrales/Ministerial/Programas de oración\|Programas de oración]]","[[La oración es el primer paso y el más importante para la edificación de la Iglesia]]"],"files":["[[Plug and Pray.afdesign]]"],"tags":["Intercesión"],"theme":"myquote","width":1920,"height":1080,"dg-publish":true,"permalink":"/programas-y-ministerios/equipo-de-intercesion/grupos-de-oracion/grupos-de-oracion/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/programas-y-ministerios/equipo-de-intercesion/grupos-de-oracion/grupos-de-oracion/","tags":["Intercesión"]}
 ---
 
 
@@ -81,7 +81,7 @@ La Escritura es muy clara: La edificación de la Iglesia es algo que solo Dios, 
 
 1. [[Biblioteca/Temas bíblicos/La importancia de la oración\|La importancia de la oración]]
 2. [[Areas/Mi santificación/Mi vida de oración\|Mi vida de oración]]
-3. [[Programas de oración]]
+3. [[Convicciones centrales/Ministerial/Programas de oración\|Programas de oración]]
 
 
 
@@ -156,16 +156,16 @@ Confiando en la verdad bíblica,  [[Programas y ministerios/Equipo de intercesi�
 ### Miembros del equipo
 | File                                                    | Equipo | líder |
 | ------------------------------------------------------- | ------ | ----- |
-| [[Personas/Personas/Quique\|Quique]]                 | 1      | ✱     |
 | [[Personas/Personas/Beto Camacho\|Beto Camacho]]     | 1      | ✱     |
-| [[Personas/Personas/Mary Jimenez\|Mary Jimenez]]     | 1      |       |
+| [[Personas/Personas/Quique\|Quique]]                 | 1      | ✱     |
 | [[Personas/Personas/Alicia\|Alicia]]                 | 1      |       |
 | [[Personas/Personas/Blanquita\|Blanquita]]           | 1      |       |
+| [[Personas/Personas/Mary Jimenez\|Mary Jimenez]]     | 1      |       |
 | [[Personas/Personas/Ivan\|Ivan]]                     | 2      | ✱     |
+| [[Personas/Personas/Carmen\|Carmen]]                 | 2      |       |
 | [[Personas/Personas/Martha Fonseca\|Martha Fonseca]] | 2      |       |
 | [[Personas/Personas/Montse\|Montse]]                 | 2      |       |
 | [[Personas/Personas/Paty\|Paty]]                     | 2      |       |
-| [[Personas/Personas/Carmen\|Carmen]]                 | 2      |       |
 
 { .block-language-dataview}
 

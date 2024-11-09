@@ -1,5 +1,5 @@
 ---
-{"icon":"LiHome","theme":"myquote","width":1000,"height":1500,"dg-publish":true,"dg-home":false,"permalink":"/convicciones-centrales/mis-convicciones/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/convicciones-centrales/mis-convicciones/"}
 ---
 
 
@@ -235,7 +235,7 @@ Creemos que el evangelio, las buenas nuevas de la actividad salvadora de Dios en
 4. [[Convicciones centrales/Ministerial/El evangelio dicta la dieta de predicaciones y actividades\|El evangelio dicta la dieta de predicaciones y actividades]]
 
 
-Ya que estamos convencidos que es en y por el evangelio, trabajaremos para que todo lo que hacemos en nuestra iglesia local, [[Programas y ministerios/Gracia Soberana Orizaba/Gracia Soberana Ori\|Gracia Soberana Ori]] señale al evangelio
+Ya que estamos convencidos que es en y por el evangelio, trabajaremos para que todo lo que hacemos en nuestra iglesia local, [[Programas y ministerios/Gracia Soberana Orizaba/Gracia Soberana Orizaba\|Gracia Soberana Orizaba]] señale al evangelio
 
 </div></div>
 

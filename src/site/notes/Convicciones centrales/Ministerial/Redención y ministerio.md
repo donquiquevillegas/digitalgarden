@@ -1,5 +1,5 @@
 ---
-{"type":"admin","related":["[[Gracia Soberana Ori]]","[[Filosofía ministerial de Gracia Soberana Orizaba]]","[[07 Convicciones para la dirección de la Iglesia]]"],"dg-publish":true,"permalink":"/convicciones-centrales/ministerial/redencion-y-ministerio/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/convicciones-centrales/ministerial/redencion-y-ministerio/"}
 ---
 
 1. [[Biblioteca/Temas bíblicos/Atributos de Dios\|Atributos de Dios]]

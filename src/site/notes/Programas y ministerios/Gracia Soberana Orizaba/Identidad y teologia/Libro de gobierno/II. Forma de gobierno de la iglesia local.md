@@ -1,5 +1,5 @@
 ---
-{"type":"resources","class":"creed","related":["[[Gracia Soberana Orizaba]]","[[Teología de Gracia Soberana Orizaba]]","[[Ministerio Pastoral]]"],"dg-publish":true,"permalink":"/programas-y-ministerios/gracia-soberana-orizaba/identidad-y-teologia/libro-de-gobierno/ii-forma-de-gobierno-de-la-iglesia-local/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/programas-y-ministerios/gracia-soberana-orizaba/identidad-y-teologia/libro-de-gobierno/ii-forma-de-gobierno-de-la-iglesia-local/"}
 ---
 
 
