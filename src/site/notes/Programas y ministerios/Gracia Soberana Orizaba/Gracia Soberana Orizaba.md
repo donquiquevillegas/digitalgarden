@@ -2,6 +2,7 @@
 {"type":"admin","dg-publish":true,"permalink":"/programas-y-ministerios/gracia-soberana-orizaba/gracia-soberana-orizaba/","dgPassFrontmatter":true}
 ---
 
+
 ![worship.jpg|banner](/img/user/Archivos/banners/worship.jpg)
 
 1. [[Convicciones centrales/Ministerial/Filosofía ministerial de Gracia Soberana Orizaba\|Filosofía ministerial de Gracia Soberana Orizaba]]
