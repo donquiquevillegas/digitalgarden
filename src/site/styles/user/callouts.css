@@ -1,0 +1,314 @@
+.callout[data-callout="bible"] {
+    --callout-color: 23, 84, 203;
+    --callout-icon: lucide-book-open;
+    font-family: 'Inter';
+    font-size:90%;
+}
+
+.callout[data-callout="dialogar"] {
+    --callout-color: 84, 3, 117;
+    --callout-icon: lucide-message-circle;
+    font-family: 'Inter';
+    font-size:90%;
+}
+
+.callout[data-callout="asking"] {
+    --callout-color: 68, 68, 68;
+    --callout-icon: lucide-pencil;
+    font-family: 'Inter';
+    font-size:90%;
+}
+
+
+
+.callout[data-callout="recordar"] {
+    --callout-color: 206, 152, 3;
+    --callout-icon: lucide-lightbulb;
+    font-family: 'Inter';
+    font-size:90%;
+}
+
+
+.callout[data-callout="adoracion"] {
+    --callout-color: 206, 152, 3;
+    --callout-icon: lucide-arrow-up;
+    font-family: 'Inter';
+    font-size:90%;
+}
+
+
+.callout[data-callout="meditacion"] {
+    --callout-color: 0, 141, 59;
+    --callout-icon: <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M184 0c30.9 0 56 25.1 56 56V456c0 30.9-25.1 56-56 56c-28.9 0-52.7-21.9-55.7-50.1c-5.2 1.4-10.7 2.1-16.3 2.1c-35.3 0-64-28.7-64-64c0-7.4 1.3-14.6 3.6-21.2C21.4 367.4 0 338.2 0 304c0-31.9 18.7-59.5 45.8-72.3C37.1 220.8 32 207 32 192c0-30.7 21.6-56.3 50.4-62.6C80.8 123.9 80 118 80 112c0-29.9 20.6-55.1 48.3-62.1C131.3 21.9 155.1 0 184 0zM328 0c28.9 0 52.6 21.9 55.7 49.9c27.8 7 48.3 32.1 48.3 62.1c0 6-.8 11.9-2.4 17.4c28.8 6.2 50.4 31.9 50.4 62.6c0 15-5.1 28.8-13.8 39.7C493.3 244.5 512 272.1 512 304c0 34.2-21.4 63.4-51.6 74.8c2.3 6.6 3.6 13.8 3.6 21.2c0 35.3-28.7 64-64 64c-5.6 0-11.1-.7-16.3-2.1c-3 28.2-26.8 50.1-55.7 50.1c-30.9 0-56-25.1-56-56V56c0-30.9 25.1-56 56-56z"/></svg>;
+    font-family: 'Inter';
+    font-size:90%;
+}
+
+.callout[data-callout="oracion-respuesta"] {
+    --callout-color: 184, 125, 0;
+    --callout-icon: lucide-arrow-up;
+    font-family: 'Inter';
+    font-size:90%;
+}
+
+
+.callout[data-callout="oracion-iglesia"] {
+    --callout-color: 0, 141, 59;
+    --callout-icon: lucide-trees;
+    font-family: 'Inter';
+    font-size:90%;
+}
+
+.callout[data-callout="oracion-hombres"] {
+    --callout-color: 24, 49, 83;
+    --callout-icon: <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><path d="M208 64a48 48 0 1 1 96 0 48 48 0 1 1 -96 0zM9.8 214.8c5.1-12.2 19.1-18 31.4-12.9L60.7 210l22.9-38.1C99.9 144.6 129.3 128 161 128c51.4 0 97 32.9 113.3 81.7l34.6 103.7 79.3 33.1 34.2-45.6c6.4-8.5 16.6-13.3 27.2-12.8s20.3 6.4 25.8 15.5l96 160c5.9 9.9 6.1 22.2 .4 32.2s-16.3 16.2-27.8 16.2H288c-11.1 0-21.4-5.7-27.2-15.2s-6.4-21.2-1.4-31.1l16-32c5.4-10.8 16.5-17.7 28.6-17.7h32l22.5-30L22.8 246.2c-12.2-5.1-18-19.1-12.9-31.4zm82.8 91.8l112 48c11.8 5 19.4 16.6 19.4 29.4v96c0 17.7-14.3 32-32 32s-32-14.3-32-32V405.1l-60.6-26-37 111c-5.6 16.8-23.7 25.8-40.5 20.2S-3.9 486.6 1.6 469.9l48-144 11-33 32 13.7z"/></svg>;
+    font-family: 'Inter';
+    font-size:90%;
+}
+
+.callout[data-callout="books"] {
+    --callout-color: 87, 67, 45;
+    --callout-icon: lucide-book-open-check;
+    font-family: 'Inter';
+    font-size:90%;
+}
+
+.callout[data-callout="notas"] {
+    --callout-color: 87, 67, 45;
+    --callout-icon: lucide-bookmark-plus;
+    font-family: 'Inter';
+    font-size:90%;
+}
+
+
+.callout[data-callout="tags"] {
+    --callout-color: 17, 119, 187;
+    --callout-icon: lucide-hash;
+    font-family: 'Inter';
+    font-size:90%;
+}
+
+.callout[data-callout="think"] {
+    --callout-icon: lucide-cog;
+    --callout-color: 206, 152, 3;
+    font-family: 'Inter';
+    font-size:90%;
+}
+
+.callout[data-callout="resaltado"] {
+    --callout-icon: lucide-bookmark;
+    --callout-color: 244, 164, 62;
+    font-family: 'Inter';
+    font-size:90%;
+}
+
+.callout[data-callout="nota"] {
+    --callout-icon: lucide-edit-3;
+    --callout-color: 76, 60, 155;
+    font-family: 'Inter';
+    font-size:90%;
+}
+
+.callout[data-callout="teach"] {
+    --callout-icon: lucide-mic;
+    --callout-color: 70, 70, 80;
+    font-family: 'Inter';
+    font-size:90%;
+}
+
+.callout[data-callout="tasks"] {
+    --callout-icon: lucide-check-square;
+    --callout-color: 193, 142, 0;
+    font-family: 'Inter';
+    font-size:90%;
+}
+
+
+.callout[data-callout="pray"] {
+    --callout-color: 24, 49, 83;
+    --callout-icon: <svg xmlns="http://www.w3.org/2000/svg" id="mdi-hands-pray" width="24" height="24" viewBox="0 0 24 24" stroke="none" fill="currentColor" viewBox="0 0 24 24"><path d="M11.43 9.67C11.47 9.78 11.5 9.88 11.5 10V15.22C11.5 15.72 11.31 16.2 10.97 16.57L8.18 19.62L4.78 16.22L6 15L8.8 2.86C8.92 2.36 9.37 2 9.89 2C10.5 2 11 2.5 11 3.11V8.07C10.84 8.03 10.67 8 10.5 8C9.4 8 8.5 8.9 8.5 10V13C8.5 13.28 8.72 13.5 9 13.5S9.5 13.28 9.5 13V10C9.5 9.45 9.95 9 10.5 9C10.69 9 10.85 9.07 11 9.16C11.12 9.23 11.21 9.32 11.3 9.42C11.33 9.46 11.36 9.5 11.38 9.55C11.4 9.59 11.42 9.63 11.43 9.67M2 19L6 22L7.17 20.73L3.72 17.28L2 19M18 15L15.2 2.86C15.08 2.36 14.63 2 14.11 2C13.5 2 13 2.5 13 3.11V8.07C13.16 8.03 13.33 8 13.5 8C14.6 8 15.5 8.9 15.5 10V13C15.5 13.28 15.28 13.5 15 13.5S14.5 13.28 14.5 13V10C14.5 9.45 14.05 9 13.5 9C13.31 9 13.15 9.07 13 9.16C12.88 9.23 12.79 9.32 12.71 9.42C12.68 9.46 12.64 9.5 12.62 9.55C12.6 9.59 12.58 9.63 12.57 9.67C12.53 9.78 12.5 9.88 12.5 10V15.22C12.5 15.72 12.69 16.2 13.03 16.57L15.82 19.62L19.22 16.22L18 15M20.28 17.28L16.83 20.73L18 22L22 19L20.28 17.28Z" /></svg>;
+    font-family: 'Inter';
+    font-size:90%;
+}
+
+.callout[data-callout="ilustracion"] {
+    --callout-icon: lucide-lamp-desk;
+    --callout-color: 99, 138, 157;
+    font-family: 'Inter';
+    font-size:90%;
+}
+
+
+.callout[data-callout="links"] {
+    --callout-icon: lucide-link-2;
+    --callout-color: 33,33,33;
+    font-family: 'Inter';
+    font-size:90%;
+}
+
+
+.callout[data-callout="visitas"] {
+    --callout-icon: lucide-users;
+    --callout-color: 34,43,89; 
+    font-family: 'Inter';
+    font-size:90%;
+}
+
+.callout[data-callout="cumples"] {
+    --callout-icon: lucide-gift;
+    --callout-color: 82,126,178;
+    
+    font-family: 'Inter';
+    font-size:90%;
+}
+
+
+
+
+
+.callout[data-callout="gospel"] {
+    --callout-icon: lucide-cross;
+    --callout-color: 176, 48, 7;
+    font-family: 'Inter';
+    font-size:90%;
+}
+
+.callout[data-callout="proposición"] {
+    --callout-color: 193, 104, 27;
+    --callout-icon: lucide-help-circle;
+    font-family: 'Inter';
+    font-size:90%;
+}
+
+
+.callout[data-callout="idea"] {
+    --callout-color: 206, 152, 3;
+    --callout-icon: lucide-lightbulb;
+    font-family: 'Inter';
+    font-size:90%;
+}
+
+
+
+.callout[data-callout="bible"] {
+    --callout-color: 13, 67, 114;
+    --callout-icon: lucide-book-open;
+    font-family: 'Inter';
+    font-size:90%;
+}
+
+.callout[data-callout="aplicacion"] {
+    --callout-color: 9, 110, 112;
+    --callout-icon: lucide-check-circle;
+    font-family: 'Inter';
+    font-size:90%;
+}
+
+.callout[data-callout="argumento"] {
+    --callout-icon: lucide-quote;
+    --callout-color: 22, 93, 117;
+    font-family: 'Inter';
+    font-size:90%;
+}
+
+.callout[data-callout="transicion"] {
+    --callout-icon: lucide-link;
+    --callout-color: 18,18,36;
+    font-family: 'Inter';
+    font-size:90%;
+}
+
+.callout[data-callout="memorizar"] {
+    --callout-icon: lucide-save;
+    --callout-color: 126, 126, 126;
+    font-family: 'Inter';
+    font-size:90%;
+}
+
+.callout[data-callout="principio"] {
+    --callout-icon: lucide-award ;
+    --callout-color: 126, 126, 126;
+    font-family: 'Inter';
+    font-size:90%;
+}
+
+
+
+.callout[data-callout="respuesta"] {
+    --callout-color: 100, 100, 100;
+    --callout-icon: lucide-pen-square;
+    font-family: 'Inter';
+    font-size:90%;
+}
+
+
+.callout[data-callout="hoy"] {
+    --callout-icon: lucide-clipboard-list;
+    --callout-color: 82, 126, 178;
+    font-family: 'Inter';
+    font-size:90%;
+}
+
+.callout[data-callout="conviccion"] {
+    --callout-icon: lucide-heart;
+    --callout-color: 237, 41, 52;
+    font-family: 'Inter';
+    font-size:90%;
+}
+
+
+.callout[data-callout="ministerial"] {
+    --callout-icon: lucide-church;
+    --callout-color: 49, 139, 87;
+    font-family: 'Inter';
+    font-size:90%;
+}
+
+
+.callout[data-callout="talk"] {
+    --callout-icon: lucide-messages-square;
+    --callout-color: 122, 177, 190; 
+    font-family: 'Inter';
+    font-size:90%;
+}
+
+.callout[data-callout="tarea"] {
+    --callout-icon: lucide-pencil-line;
+    --callout-color: 195, 147, 88;
+    font-family: 'Inter';
+    font-size:90%;
+}
+
+
+.callout[data-callout="tarea"] {
+    --callout-icon: lucide-pencil-line;
+    --callout-color: 195, 147, 88;
+    font-family: 'Inter';
+    font-size:90%;
+}
+
+.callout[data-callout="ejercicio"] {
+    --callout-icon: lucide-puzzle;
+    --callout-color: 23, 84, 203;
+    font-family: 'Inter';
+    font-size:90%;
+}
+
+/* COnfiguracion de fuente*/
+
+.callout-content p {
+    margin-block-start: 0px;
+    margin-top: 5px;
+}
+
+.callout-content {
+margin-top: 0;
+}    
+
+.callout-title, .callout-title-inner {
+font-family: 'Inter';
+font-weight: bold;
+font: size 1.2em;;
+}
+
+.smallsize{font-size: 20px;}

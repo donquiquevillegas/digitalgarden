@@ -1,0 +1,232 @@
+.mk-path-context-file {
+    font-family: 'Inter';
+    font-weight: bold;
+}
+
+.metadata-container div {
+    font-family: 'Inter';
+    font-size: 15px;
+}
+
+.metadata-properties-title {
+    font-weight: 600;
+}
+
+.cm-header.cm-header-1, 
+.cm-header.cm-header-2, 
+.cm-header.cm-header-3,
+.markdown-preview-view h1,
+.markdown-preview-view h2,
+.markdown-preview-view h3 {
+    font-family: 'Inter';
+    font-weight: bold;
+    margin: 1em 0 1m; 
+}
+
+.cm-header.cm-header-4, 
+.cm-header.cm-header-5, 
+.cm-header.cm-header-6,
+.markdown-preview-view h4,
+.markdown-preview-view h5,
+.markdown-preview-view h6  {
+font-style: normal;
+}
+
+
+.markdown-preview-view h5, .cm-header.cm-header-5, .markdown-preview-view h5   {
+font-style:italic;
+}
+
+
+.cm-header.cm-header-5, .markdown-preview-view h5 {
+padding-bottom: 1px;
+}
+
+
+.cm-header.cm-header-1,
+.cm-header.cm-header-2,
+.markdown-preview-view h1,
+.markdown-preview-view h2 {
+    letter-spacing: 5px;
+    text-transform: uppercase;
+}
+
+
+.dataview.table-view-table, table .markdown-source-view.mod-cm6 .cm-scroller {
+    line-height: 1.25;
+    font-family: 'Inter';
+    }
+    
+
+
+
+    span.cm-highlight, .markdown-preview-view mark  {
+        background-image: linear-gradient(to right,  rgba(255, 204, 62, 0.35), rgba(240, 224, 104, 0.35)); 
+        text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.05);
+        }
+              
+
+.inline-title{
+    font-size:160%;
+    font-family: 'Inter';
+    font-weight: bold;
+    border-bottom: none;
+    border-radius: 6px;
+    padding: 4px;
+    margin-bottom: 4px;
+    text-transform:uppercase;
+    letter-spacing: 2px;
+    text-align: right;
+    color:#3571a0;
+        }
+
+
+        .mysans{
+            font-family: 'Noto Sans', sans-serif;
+            font-style: normal;
+            padding-bottom: 25px;
+            font-weight: 500;
+            line-height: 1;
+            color:#666666;
+            font-size:90%;
+            }
+        
+            .mysansbf{
+                font-family: 'Noto Sans', sans-serif;
+                font-style: normal;
+                padding-bottom: 25px;
+                font-weight: 700;
+                line-height: 1;
+                color:#666666;
+                font-size:90%;
+                }
+            
+        .author{
+            color:  #105e8b;
+            font-size: var(--r-heading5-size);
+            font-family: "Inter Bold", sans-serif;
+            text-transform: uppercase;
+            font-style: normal;
+            letter-spacing: 4px;
+            font-weight: 700;
+            margin-top: 12px;
+            line-height: 1.25;
+           }
+
+
+        .authornb{
+            color:  #105e8b;
+            font-size: var(--r-heading5-size);
+            font-family: "Inter", sans-serif;
+            text-transform: uppercase;
+            font-style: normal;
+            letter-spacing: 4px;
+            font-weight: 700;
+            margin-top: 12px;
+            line-height: 1.25;
+           }           
+
+.book{
+        font-size: 0.6em;
+        font-family: Inter, Verdana, Geneva, Tahoma, sans-serif;
+        font-style: normal;
+        font-weight: 700;
+        letter-spacing: 4px;
+    }
+      
+.subtitle {
+    color:#4b6584; 
+    font-size:1.2em; 
+    font-weight:600;
+    font-style: italic;
+    text-align: right;
+    margin: 0;
+}
+
+.subtitlealt {
+    color:#4b6584; 
+    font-size:1.2em; 
+    font-weight:600;
+    font-style: italic;
+    text-align: right;
+    margin: 0;
+}
+
+
+.title {
+    color:#4b6584; 
+    font-size:1.4em; 
+    font-weight:600;
+    font-family: Inter Bold;
+    text-align: right;
+    margin: 0;
+    letter-spacing: 0.2em;
+}
+
+.markdown-rendered blockquote, 
+.HyperMD-quote ::before {
+border-left-width: 5px; 
+padding-left: 20px; 
+}
+
+
+.reveal {
+    background-color: aliceblue;
+    color: #555;
+    font-family: var(--r-main-font);
+    font-size: var(--r-main-font-size);
+}
+
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal h4,
+.reveal h5 {
+font-family:"Inter";
+font-weight: 600;
+color: #333;
+}
+
+:root {
+    --r-main-font: "Noto Sans";
+    --r-main-font-size: 38px;
+}  
+
+
+ul.dataview-ul {
+    list-style: none;
+	padding-left: 0;
+}A
+
+ul.dataview-ul li {
+    background-color: #dff4ff; 
+    border: 1px solid #7cafcb; 
+    padding: 5px; 
+    border-radius: 15px; 
+    font-size:  0.7em;
+    cursor: pointer; 
+    margin: 5px 0;
+}
+
+.cm-content {
+    font-family: 'Noto Serif', serif;
+  }
+
+  . interlinear thead {
+    border:none
+  }
+
+  body {
+    --line-height-normal: 2;
+  }
+
+  .greek {
+    font-size: 200%;
+  }
+  
+  :root {--file-line-width: 900px;}
+
+  .cm-sizer {
+    max-width: 100%;
+    margin: auto;
+    }
