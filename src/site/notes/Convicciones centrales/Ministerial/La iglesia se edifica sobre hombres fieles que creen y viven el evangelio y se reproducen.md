@@ -1,5 +1,5 @@
 ---
-{"type":"conviccion","area":"[[Ministerial]]","rama":"[[Hombres fieles]]","related":["[[Gracia Soberana Orizaba]]","[[Filosofía ministerial de Gracia Soberana Orizaba]]","[[Discipulado]]"],"tags":["convicciones","Ministerial"],"dg-publish":true,"permalink":"/convicciones-centrales/ministerial/la-iglesia-se-edifica-sobre-hombres-fieles-que-creen-y-viven-el-evangelio-y-se-reproducen/","dgPassFrontmatter":true}
+{"type":"conviccion","area":"[[Ministerial]]","rama":"[[Hombres fieles]]","related":["[[Gracia Soberana Ori]]","[[Filosofía ministerial de Gracia Soberana Orizaba]]","[[Discipulado]]"],"tags":["convicciones","Ministerial"],"dg-publish":true,"permalink":"/convicciones-centrales/ministerial/la-iglesia-se-edifica-sobre-hombres-fieles-que-creen-y-viven-el-evangelio-y-se-reproducen/","dgPassFrontmatter":true}
 ---
 
 

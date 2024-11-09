@@ -1,5 +1,5 @@
 ---
-{"type":"admin","related":["[[Gracia Soberana Orizaba]]","[[Filosofía ministerial de Gracia Soberana Orizaba]]","[[07 Convicciones para la dirección de la Iglesia]]"],"dg-publish":true,"permalink":"/convicciones-centrales/ministerial/aspectos-centrales-del-evangelio-para-la-mision/","dgPassFrontmatter":true}
+{"type":"admin","related":["[[Gracia Soberana Ori]]","[[Filosofía ministerial de Gracia Soberana Orizaba]]","[[07 Convicciones para la dirección de la Iglesia]]"],"dg-publish":true,"permalink":"/convicciones-centrales/ministerial/aspectos-centrales-del-evangelio-para-la-mision/","dgPassFrontmatter":true}
 ---
 
 1. [[Biblioteca/Temas bíblicos/Atributos de Dios y la misión de la iglesia\|Atributos de Dios y la misión de la iglesia]]

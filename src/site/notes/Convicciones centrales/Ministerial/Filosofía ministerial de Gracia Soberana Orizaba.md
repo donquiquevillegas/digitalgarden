@@ -4,7 +4,7 @@
 
 ![worship.jpg|banner](/img/user/Archivos/banners/worship.jpg)
 
-Filosofía ministerial de [[Programas y ministerios/Gracia Soberana Orizaba/Gracia Soberana Orizaba\|Gracia Soberana Orizaba]]
+Filosofía ministerial de [[Programas y ministerios/Gracia Soberana Orizaba/Gracia Soberana Ori\|Gracia Soberana Ori]]
 
 1. [[Convicciones centrales/Ministerial/Misión y Visión de Gracia Soberana Orizaba\|Misión y Visión de Gracia Soberana Orizaba]]
 2. [[Convicciones centrales/Ministerial/Qué necesitamos para cumplir la mision\|Qué necesitamos para cumplir la mision]]

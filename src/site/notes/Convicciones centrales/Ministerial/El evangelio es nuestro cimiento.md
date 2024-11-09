@@ -1,5 +1,5 @@
 ---
-{"type":"conviccion","related":["[[Gracia Soberana Orizaba]]","[[Filosofía ministerial de Gracia Soberana Orizaba]]","[[07 Convicciones para la dirección de la Iglesia]]","[[El evangelio de la Gracia de Dios en Cristo es el cimiento, la fuente y la meta de la existencia de nuestra iglesia local]]"],"tags":["Ministerial/Principios"],"dg-publish":true,"permalink":"/convicciones-centrales/ministerial/el-evangelio-es-nuestro-cimiento/","dgPassFrontmatter":true}
+{"type":"conviccion","related":["[[Gracia Soberana Ori]]","[[Filosofía ministerial de Gracia Soberana Orizaba]]","[[07 Convicciones para la dirección de la Iglesia]]","[[El evangelio de la Gracia de Dios en Cristo es el cimiento, la fuente y la meta de la existencia de nuestra iglesia local]]"],"tags":["Ministerial/Principios"],"dg-publish":true,"permalink":"/convicciones-centrales/ministerial/el-evangelio-es-nuestro-cimiento/","dgPassFrontmatter":true}
 ---
 
 

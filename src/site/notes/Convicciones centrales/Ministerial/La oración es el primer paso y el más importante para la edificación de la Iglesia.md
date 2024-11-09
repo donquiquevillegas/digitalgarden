@@ -1,5 +1,5 @@
 ---
-{"type":"conviccion","area":"[[Ministerial]]","rama":"[[Oracion]]","related":["[[Gracia Soberana Orizaba]]","[[Filosofía ministerial de Gracia Soberana Orizaba]]","[[07 Convicciones para la dirección de la Iglesia]]","[[La Oración]]","[[La oración y el ministerio]]"],"tags":["convicciones","Ministerial"],"dg-publish":true,"permalink":"/convicciones-centrales/ministerial/la-oracion-es-el-primer-paso-y-el-mas-importante-para-la-edificacion-de-la-iglesia/","dgPassFrontmatter":true}
+{"type":"conviccion","area":"[[Ministerial]]","rama":"[[Oracion]]","related":["[[Gracia Soberana Ori]]","[[Filosofía ministerial de Gracia Soberana Orizaba]]","[[07 Convicciones para la dirección de la Iglesia]]","[[La Oración]]","[[La oración y el ministerio]]"],"tags":["convicciones","Ministerial"],"dg-publish":true,"permalink":"/convicciones-centrales/ministerial/la-oracion-es-el-primer-paso-y-el-mas-importante-para-la-edificacion-de-la-iglesia/","dgPassFrontmatter":true}
 ---
 
 

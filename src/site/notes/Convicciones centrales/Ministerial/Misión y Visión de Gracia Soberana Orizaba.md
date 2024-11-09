@@ -6,7 +6,7 @@
 
 Como parte de la [[Convicciones centrales/Ministerial/Filosofía ministerial de Gracia Soberana Orizaba\|Filosofía ministerial de Gracia Soberana Orizaba]] de Gracia Soberana Orizaba 
 
-### Misión de [[Programas y ministerios/Gracia Soberana Orizaba/Gracia Soberana Orizaba\|Gracia Soberana Orizaba]]
+### Misión de [[Programas y ministerios/Gracia Soberana Orizaba/Gracia Soberana Ori\|Gracia Soberana Ori]]
 
 > “Atesorar, vivir y proclamar con fidelidad el evangelio de Cristo en El poder del Espíritu para la Gloria de Dios”.
 { #e96de2}

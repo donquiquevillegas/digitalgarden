@@ -17,5 +17,5 @@
 
 
 - [[Convicciones centrales/Mis convicciones\|Mis convicciones]] 
-- [[Programas y ministerios/Gracia Soberana Orizaba/Gracia Soberana Orizaba\|Mi Iglesia]]
+- [[Programas y ministerios/Gracia Soberana Orizaba/Gracia Soberana Ori\|Mi Iglesia]]
 - [[Programas y ministerios/Discipulado/Colegio de pastores/Curso de griego/Morfología/Morfología del griego del NT\|Morfología del griego del NT]]
