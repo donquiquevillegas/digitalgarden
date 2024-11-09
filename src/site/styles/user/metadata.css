@@ -213,9 +213,6 @@ ul.dataview-ul li {
     font-family: 'Noto Serif', serif;
   }
 
-  .interlinear thead {
-    border:none;
-  }
 
   body {
     --line-height-normal: 2;
